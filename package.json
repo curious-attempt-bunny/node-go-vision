@@ -1,0 +1,23 @@
+{
+  "name": "node-go-vision",
+  "version": "0.0.1",
+  "description": "Go board recognition in nodejs",
+  "main": "lib/detect.js",
+  "dependencies": {
+    "opencv": "~0.0.12",
+    "underscore": "~1.4.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "node",
+    "go",
+    "vision",
+    "opencv"
+  ],
+  "author": "Merlyn Albery-Speyer",
+  "license": "BSD"
+}
